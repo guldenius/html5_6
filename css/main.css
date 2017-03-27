@@ -1,0 +1,18 @@
+.test-row div {
+    height: 40px;
+    background-color: aqua;
+    border-right: solid 1px white;
+    border-top: solid 1px white;
+}
+
+.col-xs-1 col-md-2 {
+    height: 40px;
+}
+
+#map {
+    width: 900px;
+    height: 580px;
+}
+
+$ cd /d/html5 $ git clone https: //github.com/guldenius/html5_6.git
+$ git add --all $git commit -all -m"Térkép beállítása"
